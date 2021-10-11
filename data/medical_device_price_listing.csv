@@ -1,0 +1,495 @@
+﻿DEPARTMENT,EQUIPMENT,QTY,UNIT_COST,TOTAL COST
+CASUALTY,Thermometer clinical,10,1.36,13.59
+CASUALTY,"Intubation tubes, assorted sizes",6,3.17,19.02
+CASUALTY,Pedal Pins,5,4.08,20.38
+CASUALTY,Stethoscope,5,5.43,27.17
+CASUALTY,Chest tubes,5,5.43,27.17
+CASUALTY,Mouth gags,5,8.61,43.03
+CASUALTY,Thomas Splints,5,10.87,54.35
+CASUALTY,"Sphygmomanometer,",5,16.30,81.52
+CASUALTY,Stainless Steel trays,5,22.64,113.22
+CASUALTY,Infusion stand,5,43.48,217.39
+CASUALTY,Wheel chair adult,5,114.58,572.92
+CASUALTY,"Trolley, patient, stretcher",5,241.67,1208.33
+CASUALTY,"Airways,assorted sizes",4,7.25,28.99
+CASUALTY,Cervical collars,4,13.59,54.35
+CASUALTY,Gastric lavage set,4,13.59,54.35
+CASUALTY,Nebulisers,4,22.64,90.58
+CASUALTY,"Ambu bag, adult",4,31.70,126.81
+CASUALTY,"Ambu bag, pediatrics",4,31.70,126.81
+CASUALTY,Resuscitation trays,4,49.82,199.28
+CASUALTY,Screen bed,4,86.05,344.20
+CASUALTY,Examination couch metal/wooden,4,200.00,800.00
+CASUALTY,Fetoscope,3,1.36,4.08
+CASUALTY,Wall clock,3,4.53,13.59
+CASUALTY,Autoclaving Drums,3,28.82,86.47
+CASUALTY,Underwater seal drainage,3,31.70,95.11
+CASUALTY,Diagnostic set,3,59.78,179.35
+CASUALTY,Enema Set,3,108.70,326.09
+CASUALTY,"Trolley, dressing",3,135.87,407.61
+CASUALTY,Oxygen regulator with flow meter,3,163.04,489.13
+CASUALTY,Trolley instrument(assorted),3,200.00,600.00
+CASUALTY,"Suction machine, electrical",3,634.06,1902.17
+CASUALTY,"Trolley, medicine/drug",3,751.36,2254.08
+CASUALTY,Tape measure,2,4.08,8.15
+CASUALTY,Percussion Hammer,2,10.87,21.74
+CASUALTY,Emergency lamp,2,13.59,27.17
+CASUALTY,Spot light,2,17.21,34.42
+CASUALTY,"Stethoscope, baby",2,40.76,81.52
+CASUALTY,Manual suction machine,2,58.88,117.75
+CASUALTY,"Examination lamp, mobile",2,135.87,271.74
+CASUALTY,Laryngoscope,2,184.13,368.26
+CASUALTY,"Trolley, general purpose",2,226.45,452.90
+CASUALTY,X ray Viewers,2,271.74,543.48
+CASUALTY,"Trolley,Emergency",2,407.61,815.22
+CASUALTY,Oxygen concentrators,2,1164.86,2329.71
+CASUALTY,ECG Monitor,2,6723.52,13447.05
+CASUALTY,"Trolley, gas cylinder",1,90.58,90.58
+CASUALTY,"Trolley, linen",1,241.49,241.49
+CASUALTY,"Refrigerator, pharmaceutical",1,634.06,634.06
+CASUALTY,Pulse oximeter,1,1811.59,1811.59
+CASUALTY,Defibrillator,1,2401.43,2401.43
+CSSD,Sterilizing drums (assorted),10,28.82,288.22
+CSSD,Instrument sets (assorted),3,1358.70,4076.09
+CSSD,Instrument Shelves,2,181.16,362.32
+CSSD,Instrument drying cabinet,2,226.45,452.90
+CSSD,Instrument Cabinet,2,452.90,905.80
+CSSD,"Autoclave, large",2,34250.73,68501.47
+CSSD,Ultrasonic Washer,1,1086.96,1086.96
+DENTAL LAB,Wax knife,12,4.53,54.35
+DENTAL LAB,Lecron cover,12,5.89,70.65
+DENTAL LAB,Dental flask,8,18.12,144.93
+DENTAL LAB,Dental Articulator,6,22.64,135.87
+DENTAL LAB,Dental clamp,4,18.12,72.46
+DENTAL LAB,Wire cutter,4,18.12,72.46
+DENTAL LAB,Suspension motor/micromotor with stand,4,905.80,3623.19
+DENTAL LAB,Spirit lamp,3,1.81,5.43
+DENTAL LAB,Mixing spatula,3,5.43,16.30
+DENTAL LAB,Rubber mixing bowl,3,11.32,33.97
+DENTAL LAB,Plaster knife,2,5.43,10.87
+DENTAL LAB,Hot air syringe,2,18.12,36.23
+DENTAL LAB,Orthodontic plier(set)see annex,2,27.17,54.35
+DENTAL LAB,Bench press,2,135.87,271.74
+DENTAL LAB,Fret saw,1,2.72,2.72
+DENTAL LAB,Crown flask with clamp,1,27.17,27.17
+DENTAL LAB,Vibrator,1,135.87,135.87
+DENTAL LAB,Model trimmer,1,181.16,181.16
+DENTAL LAB,Hydroflask/pressure pot,1,226.45,226.45
+DENTAL LAB,Sand plaster,1,226.45,226.45
+DENTAL LAB,Casting machine,1,226.45,226.45
+DENTAL LAB,Curing bath,1,317.03,317.03
+DENTAL LAB,High speed grinder,1,362.32,362.32
+DENTAL LAB,Model drier,1,452.90,452.90
+DENTAL LAB,Pin dexing,1,452.90,452.90
+DENTAL LAB,Heating furnace,1,452.90,452.90
+DENTAL LAB,Dewaxing machine,1,452.90,452.90
+DENTAL LAB,Polishing lathe,1,543.48,543.48
+DENTAL LAB,Work bench,1,905.80,905.80
+DENTAL LAB,Programmed porcelain machine,1,2717.39,2717.39
+DENTAL LAB,Air compressor,1,3474.52,3474.52
+DENTAL UNIT,Examination probes,20,4.08,81.52
+DENTAL UNIT,Explorers,20,4.08,81.52
+DENTAL UNIT,Dental examination mirror,20,9.56,191.12
+DENTAL UNIT,"Hand pieces, 4holes, high speed",10,253.62,2536.23
+DENTAL UNIT,Dental chair unit,3,10857.87,32573.61
+DENTAL UNIT,Dental extraction forceps(assorted) -see annex,2,260.59,521.18
+DENTAL UNIT,X - ray viewer,1,271.74,271.74
+DENTAL UNIT,Amalgamator,1,289.86,289.86
+DENTAL UNIT,Dental instrument cabinet,1,452.90,452.90
+DENTAL UNIT,Suction machine,1,634.06,634.06
+DENTAL UNIT,Ultrasonic scalar,1,1389.81,1389.81
+DENTAL UNIT,Dental Compressor(50litres),1,3474.52,3474.52
+DENTAL UNIT,Dental autoclave,1,4690.60,4690.60
+ENT,Stethoscope,2,5.43,10.87
+ENT,BP machine,2,16.30,32.61
+ENT,Jobson horn probe,2,17.66,35.33
+ENT,Sterilising drum,2,28.82,57.64
+ENT,Nasal speculum,2,34.42,68.84
+ENT,Cellman hooks,2,56.16,112.32
+ENT,Laryngeal mirror,2,67.93,135.87
+ENT,Troucher and canulla,2,67.93,135.87
+ENT,"Brondoscope, adult",2,108.70,217.39
+ENT,"Brondoscope, paed",2,108.70,217.39
+ENT,Pneumatic ear speculum,2,135.87,271.74
+ENT,Tuning fork,2,163.04,326.09
+ENT,Otoscope,2,176.63,353.26
+ENT,"Telespectomy set, paed",2,181.16,362.32
+ENT,Ear Syringe,2,226.45,452.90
+ENT,"Telespectomy set, adult",2,226.45,452.90
+ENT,Oephagoscope,2,271.74,543.48
+ENT,ENT Diagnostic Set,2,317.03,634.06
+ENT,Tonsilectomy,2,317.03,634.06
+ENT,Portable lamp,2,333.06,666.12
+ENT,Head light,2,407.61,815.22
+ENT,Noise Box,2,507.25,1014.49
+ENT,Cautery machine,2,543.48,1086.96
+ENT,ENT Table,2,5661.23,11322.46
+ENT,Tympanometer,1,1358.70,1358.70
+ENT,Lightsource(endoscopic),1,2221.92,2221.92
+ENT,"Audiometer, diagnostic",1,5434.78,5434.78
+ENT,ENT Treatment Chair,1,11322.46,11322.46
+EYE UNIT,Spotlight,2,17.21,34.42
+EYE UNIT,Eye chart,2,22.64,45.29
+EYE UNIT,Operating stool,2,45.29,90.58
+EYE UNIT,Eye Chart E-type,2,58.88,117.75
+EYE UNIT,ECCE + 11 set,2,144.93,289.86
+EYE UNIT,ICCE set,2,217.39,434.78
+EYE UNIT,Lid surgery set,2,271.74,543.48
+EYE UNIT,Cataract set,2,407.61,815.22
+EYE UNIT,Eye loupe,2,679.35,1358.70
+EYE UNIT,Retinoscope,2,860.51,1721.01
+EYE UNIT,Slit Lamp,2,7246.38,14492.75
+EYE UNIT,Ophthalmoscope set,1,226.45,226.45
+EYE UNIT,Focimeter 240,1,1086.96,1086.96
+EYE UNIT,Eye tonometer,1,1358.70,1358.70
+EYE UNIT,Perimeter,1,1811.59,1811.59
+EYE UNIT,Corneal trephine,1,2173.91,2173.91
+EYE UNIT,Trial Lens,1,3170.29,3170.29
+EYE UNIT,Plant operating ophthamology,1,5887.68,5887.68
+EYE UNIT,Eye operation microscope,1,6793.48,6793.48
+EYE UNIT,Eye examination microscope with tonometer,1,7699.28,7699.28
+EYE UNIT,Indirect Opthalmoscope,1,10869.57,10869.57
+HDU,Infusion stand,4,43.48,173.91
+HDU,Baby cot,4,407.61,1630.43
+HDU,Bed,4,1358.70,5434.78
+HDU,"Trolley, dressing",2,135.87,271.74
+HDU,"Trolley, instrument",2,200.00,400.00
+HDU,"Suction machine, electric",2,634.06,1268.12
+HDU,"Trolley, general purpose",1,226.45,226.45
+HDU,Patient trolley,1,241.67,241.67
+ICU,Infusion stand,4,43.48,173.91
+ICU,Syringe pump,4,135.87,543.48
+ICU,Infusion pump,4,226.45,905.80
+ICU,Baby cot,4,407.61,1630.43
+ICU,ICU bed,4,1358.70,5434.78
+ICU,Spotlight,2,17.21,34.42
+ICU,"Suction machine, electric",2,634.06,1268.12
+ICU,Patient monitor,2,4528.99,9057.97
+ICU,ECG Monitor,2,6723.52,13447.05
+ICU,"Trolley, dressing",1,135.87,135.87
+ICU,"Trolley, instrument",1,200.00,200.00
+ICU,"Trolley, general purpose",1,226.45,226.45
+ICU,"Refrigerator, general",1,634.06,634.06
+ICU,Infant radiant warmer,1,1068.84,1068.84
+ICU,Defibrillator,1,2401.43,2401.43
+ICU,"Ventilator, infant",1,7699.28,7699.28
+ICU,"Ventilator, adult",1,10869.57,10869.57
+ICU,Mobile X -ray unit,1,42572.46,42572.46
+ICU,Patient trolley,10,241.67,2416.67
+LABORATORY,Binocular microscope,9,299.56,2696.01
+LABORATORY,Hand tally counter,6,226.45,1358.70
+LABORATORY,Glucose analyzer,5,58.88,294.38
+LABORATORY,Centrifuge,5,588.77,2943.84
+LABORATORY,Vaccine transport box,4,90.58,362.32
+LABORATORY,Slide warmer,4,90.58,362.32
+LABORATORY,Mixer,4,342.39,1369.57
+LABORATORY,Water bath,4,751.29,3005.14
+LABORATORY,Calorimeter,3,299.56,898.67
+LABORATORY,Trip Balance,3,407.61,1222.83
+LABORATORY,Digital count pen,3,2282.61,6847.83
+LABORATORY,Kerosene Stove,2,9.06,18.12
+LABORATORY,Glucose analyzer,2,58.88,117.75
+LABORATORY,Weighing scale adult,2,88.77,177.54
+LABORATORY,"Glass ware set, Laboratory",2,135.87,271.74
+LABORATORY,Neuberchamber,2,271.74,543.48
+LABORATORY,Binocular microscope,2,299.56,599.11
+LABORATORY,Analytic balance,2,317.03,634.06
+LABORATORY,Water distiller,2,1086.96,2173.91
+LABORATORY,PH meter,2,1358.70,2717.39
+LABORATORY,Electrophoresis apparatus,2,1426.63,2853.26
+LABORATORY,Bilirubin meter,2,1721.01,3442.03
+LABORATORY,"Incubator, laboratory",2,2122.41,4244.82
+LABORATORY,Blood bank refrigerator,2,2264.49,4528.99
+LABORATORY,"Haemoglobinometer, electronic",2,2647.44,5294.87
+LABORATORY,Hot air oven,2,3115.10,6230.20
+LABORATORY,Water de-ionizer,2,4076.09,8152.17
+LABORATORY,"Blood cell counter, Electrical",2,4534.82,9069.64
+LABORATORY,Calorimeter,1,299.56,299.56
+LABORATORY,Centrifuge,1,588.77,588.77
+LABORATORY,"Haemoglobinometer, electronic",1,2647.44,2647.44
+LABORATORY,Autoclave,1,4690.60,4690.60
+LABORATORY,HIV screening machine/ Test kits,1,13586.96,13586.96
+MATERNITY,Obstetric bed,25,135.87,3396.74
+MATERNITY,Fetoscope,6,1.36,8.15
+MATERNITY,Infusion stand,6,43.48,260.87
+MATERNITY,Baby cot,6,407.61,2445.65
+MATERNITY,Delivery bed,6,3449.28,20695.65
+MATERNITY,Sphygmomanometer(BP machine),4,16.30,65.22
+MATERNITY,"Incubator, infant",3,4182.97,12548.91
+MATERNITY,Infant weighing scale,2,40.76,81.52
+MATERNITY,Oxygen set,2,163.04,326.09
+MATERNITY,Ultrasonic Nebulizer,2,317.03,634.06
+MATERNITY,Examination Lamp,2,333.06,666.12
+MATERNITY,Phototherapy unit,2,769.93,1539.86
+MATERNITY,Infant radiant warmer,2,1068.84,2137.68
+MATERNITY,Rescucitaire,2,1358.70,2717.39
+MATERNITY,Blood warmer,1,588.77,588.77
+MATERNITY,Gynecological examination table,1,634.06,634.06
+MATERNITY,Refrigerator,1,634.06,634.06
+MATERNITY,"Suction machine, manual",1,634.06,634.06
+MATERNITY,Fetus detector,1,1411.23,1411.23
+MATERNITY,Autoclave,1,4690.60,4690.60
+MCH/FP,Fetoscope,10,1.36,13.59
+MCH/FP,Thermometer clinical,8,1.36,10.87
+MCH/FP,Mosquito forceps,5,4.53,22.64
+MCH/FP,IUD Insertion set,5,18.12,90.58
+MCH/FP,Sponge holding forceps,4,3.62,14.49
+MCH/FP,Kidney dishes,4,3.62,14.49
+MCH/FP,Stethoscope,4,5.43,21.74
+MCH/FP,Sphygmomanometer,4,16.30,65.22
+MCH/FP,Speculum set,4,22.64,90.58
+MCH/FP,Screen bed,4,86.05,344.20
+MCH/FP,Examination couch metal/wooden,4,344.20,1376.81
+MCH/FP,Infant weighing scale,3,40.76,122.28
+MCH/FP,"Stethoscope, baby",3,40.76,122.28
+MCH/FP,Tape measure,2,4.08,8.15
+MCH/FP,Percussion Hammer,2,10.87,21.74
+MCH/FP,Uterine Sound,2,16.30,32.61
+MCH/FP,Spot light,2,17.21,34.42
+MCH/FP,Implant removal kit,2,22.64,45.29
+MCH/FP,Infusion stand,2,43.48,86.96
+MCH/FP,Weighing scale adult,2,88.77,177.54
+MCH/FP,Wheel chair adult,2,114.58,229.17
+MCH/FP,Cool box,2,181.16,362.32
+MCH/FP,Trolley instrument(assorted),2,200.00,400.00
+MCH/FP,"Examination lamp, mobile",2,333.06,666.12
+MCH/FP,"Refrigerator, KEPI",2,1358.70,2717.39
+MCH/FP,Electric cookers,1,90.58,90.58
+MCH/FP,Autoclave,1,362.32,362.32
+MINOR THEATRE,Stethoscope,2,5.43,10.87
+MINOR THEATRE,Stethoscope,2,5.43,10.87
+MINOR THEATRE,Sphygmomanometer,2,16.30,32.61
+MINOR THEATRE,Sphygmomanometer,2,16.30,32.61
+MINOR THEATRE,Spot light,1,17.21,17.21
+MINOR THEATRE,Spot light,1,17.21,17.21
+MINOR THEATRE,Screen bed,1,86.05,86.05
+MINOR THEATRE,Screen bed,1,86.05,86.05
+MINOR THEATRE,"Trolley, dressing",1,135.87,135.87
+MINOR THEATRE,"Trolley, dressing",1,135.87,135.87
+MINOR THEATRE,"Trolley, instrument",1,200.00,200.00
+MINOR THEATRE,"Trolley, instrument",1,200.00,200.00
+MINOR THEATRE,Examination couch metal/wooden,1,200.00,200.00
+MINOR THEATRE,Examination couch metal/wooden,1,344.20,344.20
+MINOR THEATRE,"Operating table, simple",1,1086.96,1086.96
+MINOR THEATRE,"Operating table, simple",1,1086.96,1086.96
+OCCUPATIONAL THERAPY,Assorted toys,4,5.43,21.74
+OCCUPATIONAL THERAPY,Goniometer,4,9.06,36.23
+OCCUPATIONAL THERAPY,Dart board,4,31.70,126.81
+OCCUPATIONAL THERAPY,Plaster shoers,4,36.23,144.93
+OCCUPATIONAL THERAPY,Static bicycle,4,63.41,253.62
+OCCUPATIONAL THERAPY,Stool frame,3,14.49,43.48
+OCCUPATIONAL THERAPY,Children piano with key board,3,18.12,54.35
+OCCUPATIONAL THERAPY,Drought board,3,22.64,67.93
+OCCUPATIONAL THERAPY,Hammock,3,45.29,135.87
+OCCUPATIONAL THERAPY,Beach balls,3,63.41,190.22
+OCCUPATIONAL THERAPY,Loom frame,3,181.16,543.48
+OCCUPATIONAL THERAPY,Hammer,2,2.72,5.43
+OCCUPATIONAL THERAPY,Hand saw,2,6.34,12.68
+OCCUPATIONAL THERAPY,Lamp shade frame,2,12.68,25.36
+OCCUPATIONAL THERAPY,FEPS machine,2,13.59,27.17
+OCCUPATIONAL THERAPY,Scrabble,2,13.59,27.17
+OCCUPATIONAL THERAPY,Chess board,2,13.59,27.17
+OCCUPATIONAL THERAPY,Tin snip,2,18.12,36.23
+OCCUPATIONAL THERAPY,Playing mats,2,31.70,63.41
+OCCUPATIONAL THERAPY,Ladder and slide,2,40.76,81.52
+OCCUPATIONAL THERAPY,Rotating punch,2,45.29,90.58
+OCCUPATIONAL THERAPY,Balancing board,2,54.35,108.70
+OCCUPATIONAL THERAPY,Crawling tunnel,2,72.46,144.93
+OCCUPATIONAL THERAPY,Spinning board,2,90.58,181.16
+OCCUPATIONAL THERAPY,Stemgnosis set,2,135.87,271.74
+OCCUPATIONAL THERAPY,Examination couch,2,344.20,688.41
+OCCUPATIONAL THERAPY,Shoulder exerciser,1,271.74,271.74
+ORTHOPAEDIC TECHNOLOGY,Scissors,3,4.53,13.59
+ORTHOPAEDIC TECHNOLOGY,Surform,2,18.12,36.23
+ORTHOPAEDIC TECHNOLOGY,Bending iron,2,36.23,72.46
+ORTHOPAEDIC TECHNOLOGY,Spoke shave,2,45.29,90.58
+ORTHOPAEDIC TECHNOLOGY,Parallel bar,2,90.58,181.16
+ORTHOPAEDIC TECHNOLOGY,Limb Vice,2,90.58,181.16
+ORTHOPAEDIC TECHNOLOGY,Engineer's vice,2,90.58,181.16
+ORTHOPAEDIC TECHNOLOGY,PVA sealing iron,2,90.58,181.16
+ORTHOPAEDIC TECHNOLOGY,Jig saw,1,9.06,9.06
+ORTHOPAEDIC TECHNOLOGY,Work bench,1,181.16,181.16
+ORTHOPAEDIC TECHNOLOGY,Heat gun,1,271.74,271.74
+ORTHOPAEDIC TECHNOLOGY,Examination couch,1,344.20,344.20
+ORTHOPAEDIC TECHNOLOGY,Electric cast cutter,1,362.32,362.32
+ORTHOPAEDIC TECHNOLOGY,Grinding machine,1,452.90,452.90
+ORTHOPAEDIC TECHNOLOGY,Column drill with quick chuck,1,543.48,543.48
+ORTHOPAEDIC TECHNOLOGY,Air compressor,1,543.48,543.48
+ORTHOPAEDIC TECHNOLOGY,Drilling machine,1,543.48,543.48
+ORTHOPAEDIC TECHNOLOGY,Orthotic kit,1,634.06,634.06
+ORTHOPAEDIC TECHNOLOGY,Arc welding machine,1,724.64,724.64
+ORTHOPAEDIC TECHNOLOGY,Vacuum laminating machine,1,724.64,724.64
+ORTHOPAEDIC TECHNOLOGY,Router machine,1,724.64,724.64
+ORTHOPAEDIC TECHNOLOGY,Electric oven,1,905.80,905.80
+ORTHOPAEDIC TECHNOLOGY,Shoe stretcher,1,905.80,905.80
+ORTHOPAEDIC TECHNOLOGY,Prosthetic kit,1,905.80,905.80
+ORTHOPAEDIC TECHNOLOGY,Electric leather sewing machine,1,1811.59,1811.59
+OUT PATIENT DEPARTMENT,Thermometer clinical,20,1.36,27.17
+OUT PATIENT DEPARTMENT,Stethoscope,10,5.43,54.35
+OUT PATIENT DEPARTMENT,Sphygmomanometer,10,16.30,163.04
+OUT PATIENT DEPARTMENT,Screen bed,10,86.05,860.51
+OUT PATIENT DEPARTMENT,"Examination couch, metal/wooden",10,344.20,3442.03
+OUT PATIENT DEPARTMENT,Tape measure,8,4.08,32.61
+OUT PATIENT DEPARTMENT,Percussion Hammer,8,10.87,86.96
+OUT PATIENT DEPARTMENT,Diagnostic set,8,59.78,478.26
+OUT PATIENT DEPARTMENT,X-Ray viewer,8,271.74,2173.91
+OUT PATIENT DEPARTMENT,Spot light,6,17.21,103.26
+OUT PATIENT DEPARTMENT,"Stethoscope, baby",6,40.76,244.57
+OUT PATIENT DEPARTMENT,Infusion stand,6,43.48,260.87
+OUT PATIENT DEPARTMENT,Wheel chair adult,6,114.58,687.50
+OUT PATIENT DEPARTMENT,Stretcher with IV pole,6,223.55,1341.30
+OUT PATIENT DEPARTMENT,Fetoscope,4,1.36,5.43
+OUT PATIENT DEPARTMENT,Lockable Cabinet,4,135.87,543.48
+OUT PATIENT DEPARTMENT,Oxygen Set,4,163.04,652.17
+OUT PATIENT DEPARTMENT,"Suction machine, electrical",4,634.06,2536.23
+OUT PATIENT DEPARTMENT,Emergency lamp,3,13.59,40.76
+OUT PATIENT DEPARTMENT,"Examination lamp, mobile",3,333.06,999.18
+OUT PATIENT DEPARTMENT,Infant weighing scale,2,40.76,81.52
+OUT PATIENT DEPARTMENT,Weighing scale adult,2,88.77,177.54
+OUT PATIENT DEPARTMENT,Fire extinguisher,2,181.16,362.32
+PHARMACY,Dispensing stools,4,22.64,90.58
+PHARMACY,"Fridge, Pharmacetical",3,634.06,1902.17
+PHARMACY,Motor & pestle,2,13.59,27.17
+PHARMACY,Counting trays,2,67.93,135.87
+PHARMACY,Tablet counter,2,135.87,271.74
+PHARMACY,Drug cabinet,2,135.87,271.74
+PHARMACY,Weighing scale(electronic),2,271.74,543.48
+PHARMACY,"Balance, heavy duty",2,452.90,905.80
+PHARMACY,"Balance, precision",2,769.93,1539.86
+PHARMACY,Distiller,2,905.80,1811.59
+PHARMACY,Fire extinguisher,1,181.16,181.16
+PHSYSIOTHERAPY,Crutches,4,23.55,94.20
+PHSYSIOTHERAPY,Walking frame,4,38.04,152.17
+PHSYSIOTHERAPY,Static bicycle,4,181.16,724.64
+PHSYSIOTHERAPY,Hand exerciser,4,181.16,724.64
+PHSYSIOTHERAPY,Exerciser mirror,3,6.79,20.38
+PHSYSIOTHERAPY,Calipers,3,13.13,39.40
+PHSYSIOTHERAPY,Exercise mat,3,90.58,271.74
+PHSYSIOTHERAPY,TENS Unit,3,99.64,298.91
+PHSYSIOTHERAPY,Timer,2,16.30,32.61
+PHSYSIOTHERAPY,Tripod,2,21.74,43.48
+PHSYSIOTHERAPY,Shoulder wheel,2,27.17,54.35
+PHSYSIOTHERAPY,Quandricep exerciser,2,31.70,63.41
+PHSYSIOTHERAPY,Pulley,2,45.29,90.58
+PHSYSIOTHERAPY,Rowing machine,2,45.29,90.58
+PHSYSIOTHERAPY,Lumber traction,2,67.93,135.87
+PHSYSIOTHERAPY,Cervical traction,2,73.37,146.74
+PHSYSIOTHERAPY,Dump bells(assorted),2,90.58,181.16
+PHSYSIOTHERAPY,Wheel chair,2,114.58,229.17
+PHSYSIOTHERAPY,Chest expander,2,135.87,271.74
+PHSYSIOTHERAPY,Wall bars,2,149.46,298.91
+PHSYSIOTHERAPY,Electro massager,2,226.45,452.90
+PHSYSIOTHERAPY,Cryotherapy,2,226.45,452.90
+PHSYSIOTHERAPY,Pack heater,2,407.61,815.22
+PHSYSIOTHERAPY,Phototherapy unit,2,407.61,815.22
+PHSYSIOTHERAPY,Infra red lamp,2,498.19,996.38
+PHSYSIOTHERAPY,Ultraviolet,2,724.64,1449.28
+PHSYSIOTHERAPY,Wax bath,2,844.20,1688.41
+PHSYSIOTHERAPY,Infra red radiation(IRR) craddle,2,1512.68,3025.36
+PHSYSIOTHERAPY,Parallel bars,1,634.06,634.06
+PHSYSIOTHERAPY,Ultrasound unit,1,815.21,815.21
+PHSYSIOTHERAPY,"Stimulator, electric",1,1902.17,1902.17
+PHSYSIOTHERAPY,Microwave Diathermy,1,3623.19,3623.19
+PHSYSIOTHERAPY,Shortwave Diathermy,1,5778.99,5778.99
+THEATRE,Laryngoscope,5,184.13,920.65
+THEATRE,"Resuscitation bag, adult",4,31.70,126.81
+THEATRE,"Resuscitation bag, infant",4,31.70,126.81
+THEATRE,Oxygen regulator,4,163.04,652.17
+THEATRE,Instrument table (MAYO),4,307.36,1229.46
+THEATRE,Spot light,3,17.21,51.63
+THEATRE,Surgeon foot step,3,22.64,67.93
+THEATRE,Surgeon's stool,3,45.29,135.87
+THEATRE,Instrument trolleys,3,200.00,600.00
+THEATRE,Patient trolley,3,241.67,725.00
+THEATRE,Myomectomy(see annex),3,271.74,815.22
+THEATRE,"Suction machine, electric",3,634.06,1902.17
+THEATRE,Defibrillator,3,2401.43,7204.29
+THEATRE,"Operating theatre table, major",3,3842.02,11526.06
+THEATRE,Vital Signs Monitor,3,4528.99,13586.96
+THEATRE,ECG Monitor,3,6723.52,20170.57
+THEATRE,Electrosurgical unit,3,7069.31,21207.93
+THEATRE,"Operating theatre lamp,ceiling mounted.",3,14215.46,42646.39
+THEATRE,Anaesthetic machine,3,24012.60,72037.80
+THEATRE,Sterilizing drum(see annex),2,28.82,57.64
+THEATRE,Instrument cabinet,2,452.90,905.80
+THEATRE,General set(see annex),2,452.90,905.80
+THEATRE,Refrigerator,2,634.06,1268.12
+THEATRE,"Operating theatre lamp, mobile",2,1086.96,2173.91
+THEATRE,Pulse oximeter,2,1811.59,3623.19
+THEATRE,Caesaerian section set,2,3448.26,6896.52
+THEATRE,Autoclave,1,4690.60,4690.60
+THEATRE,Vacuum Plant,1,8605.07,8605.07
+"THEATRE, MATERNITY","Trolley, dressing",1,135.87,135.87
+"THEATRE, MATERNITY",Trolley instrument(assorted),1,200.00,200.00
+"THEATRE, MATERNITY",Patient trolley,1,241.67,241.67
+"THEATRE, MATERNITY",X - ray viewer,1,271.74,271.74
+"THEATRE, MATERNITY",Examination Lamp,1,333.06,333.06
+"THEATRE, MATERNITY","Suction machine, electrical",1,634.06,634.06
+"THEATRE, MATERNITY",Operation table,1,3842.02,3842.02
+"THEATRE, MATERNITY",Electrosurgical unit,1,7069.31,7069.31
+"THEATRE, MATERNITY",Operating light,1,14215.46,14215.46
+"THEATRE, MATERNITY",Anaesthetic machine with ventilator,1,24012.60,24012.60
+WARD,Thermometer clinical,10,1.36,13.59
+WARD,Infusion stand,10,43.48,434.78
+WARD,Screen bed,6,86.05,516.30
+WARD,Stethoscope,3,5.43,16.30
+WARD,Sphygmomanometer,3,16.30,48.91
+WARD,Tape measure,2,4.08,8.15
+WARD,Percussion Hammer,2,10.87,21.74
+WARD,Spot light,2,17.21,34.42
+WARD,Infant weighing scale,2,40.76,81.52
+WARD,"Stethoscope, baby",2,40.76,81.52
+WARD,Dressing pack,2,43.52,87.05
+WARD,Diagnostic set,2,59.78,119.57
+WARD,"Hollow ware set, ward (Assorted)",2,72.46,144.93
+WARD,Wheel chair adult,2,114.58,229.17
+WARD,"Trolley, dressing",2,135.87,271.74
+WARD,Oxygen set,2,163.04,326.09
+WARD,Cool box,2,181.16,362.32
+WARD,Electric heater(wall mounted),2,181.16,362.32
+WARD,Trolley instrument(assorted),2,200.00,400.00
+WARD,Commode chair,2,317.03,634.06
+WARD,"Trolley, medicine/drug",2,751.36,1502.72
+WARD,Wall clock,1,4.53,4.53
+WARD,Emergency lamp,1,13.59,13.59
+WARD,Electric kettle,1,45.29,45.29
+WARD,Manual suction machine,1,58.88,58.88
+WARD,Weighing scale adult with height measuring,1,88.77,88.77
+WARD,Electric cookers,1,90.58,90.58
+WARD,"Trolley, oxygen gas cylinder",1,90.58,90.58
+WARD,Bed craddle,1,135.87,135.87
+WARD,"Trolley, general purpose",1,226.45,226.45
+WARD,"Trolley, linen",1,241.49,241.49
+WARD,"Trolley, patient, stretcher",1,241.67,241.67
+WARD,"Examination lamp, mobile",1,333.06,333.06
+WARD,Examination couch metal/wooden,1,344.20,344.20
+WARD,Refrigerator,1,634.06,634.06
+WARD,"Suction machine, electrical",1,634.06,634.06
+X - RAY,X-ray safe light,6,1811.59,10869.57
+X - RAY,X-ray safe light,6,1811.59,10869.57
+X - RAY,Film marker,2,27.17,54.35
+X - RAY,Film marker,2,27.17,54.35
+X - RAY,X-ray viewer(single screen),2,271.74,543.48
+X - RAY,X-ray viewer(double screen),2,543.48,1086.96
+X - RAY,X-ray viewer(double screen),2,543.48,1086.96
+X - RAY,Manual Film Processor,2,1086.96,2173.91
+X - RAY,Film Drier,2,1086.96,2173.91
+X - RAY,Film Drier,2,1086.96,2173.91
+X - RAY,Film hopper,2,1811.59,3623.19
+X - RAY,Film hopper,2,1811.59,3623.19
+X - RAY,Dental X-ray film processor,2,2264.49,4528.99
+X - RAY,Cassettee pass- box,2,2264.49,4528.99
+X - RAY,Automatic Film Processor,2,31702.90,63405.80
+X - RAY,Automatic Film Processor,2,31702.90,63405.80
+X - RAY,Mobile X -ray unit,2,42572.46,85144.93
+X - RAY,General X-ray Unit,2,79710.14,159420.29
+X - RAY,Darkroom accessories(sets),1,4528.99,4528.99
+X - RAY,"X-ray Cassettes(see annex),",1,5434.78,5434.78
+X - RAY,Dental X-ray,1,27173.91,27173.91
+X - RAY,Ultra sound unit(general),1,27173.91,27173.91
+X - RAY,Automatic Film Processor,1,31702.90,31702.90
+X - RAY,OPG Unit,1,49818.84,49818.84
+X - RAY,Mammography unit,1,54347.83,54347.83
+X - RAY,Mobile X -ray unit with Image intensifier,1,63405.80,63405.80
+X - RAY,General X-ray Unit,1,79710.14,79710.14
+X - RAY,Screening unit,1,108695.65,108695.65

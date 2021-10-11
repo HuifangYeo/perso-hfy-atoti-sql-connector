@@ -1,0 +1,1090 @@
+﻿EQUIPMENT_ID,EQUIPMENT,PURCHASE_PRICE
+E0000,Thermometer clinical,1.09
+E0001,"Intubation tubes, assorted sizes",2.33
+E0002,Pedal Pins,3.27
+E0003,Stethoscope,4.27
+E0004,Chest tubes,4.47
+E0005,Mouth gags,6.49
+E0006,Thomas Splints,8.79
+E0007,"Sphygmomanometer,",11.67
+E0008,Stainless Steel trays,17.15
+E0009,Infusion stand,31.97
+E0010,Wheel chair adult,91.33
+E0011,"Trolley, patient, stretcher",197.77
+E0012,"Airways,assorted sizes",6.09
+E0013,Cervical collars,10.69
+E0014,Gastric lavage set,9.79
+E0015,Nebulisers,18.95
+E0016,"Ambu bag, adult",22.33
+E0017,"Ambu bag, pediatrics",25.91
+E0018,Resuscitation trays,40.06
+E0019,Screen bed,68.09
+E0020,Examination couch metal/wooden,166.01
+E0021,Fetoscope,1.13
+E0022,Wall clock,3.27
+E0023,Autoclaving Drums,21.62
+E0024,Underwater seal drainage,25.95
+E0025,Diagnostic set,42.04
+E0026,Enema Set,85.27
+E0027,"Trolley, dressing",113.79
+E0028,Oxygen regulator with flow meter,132.27
+E0029,Trolley instrument(assorted),141.77
+E0030,"Suction machine, electrical",464.04
+E0031,"Trolley, medicine/drug",620.99
+E0032,Tape measure,3.27
+E0033,Percussion Hammer,8.39
+E0034,Emergency lamp,10.46
+E0035,Spot light,13.57
+E0036,"Stethoscope, baby",30.75
+E0037,Manual suction machine,41.64
+E0038,"Examination lamp, mobile",101.07
+E0039,Laryngoscope,146.17
+E0040,"Trolley, general purpose",190.86
+E0041,X ray Viewers,196.7
+E0042,"Trolley,Emergency",322.9
+E0043,Oxygen concentrators,960.67
+E0044,ECG Monitor,5093.69
+E0045,"Trolley, gas cylinder",72.36
+E0046,"Trolley, linen",186.89
+E0047,"Refrigerator, pharmaceutical",533.9
+E0048,Pulse oximeter,1507.22
+E0049,Defibrillator,1698.07
+E0050,Sterilizing drums (assorted),23.91
+E0051,Instrument sets (assorted),1139
+E0052,Instrument Shelves,143.08
+E0053,Instrument drying cabinet,176.32
+E0054,Instrument Cabinet,364.67
+E0055,"Autoclave, large",25487.99
+E0056,Ultrasonic Washer,899.07
+E0057,Wax knife,3.63
+E0058,Lecron cover,4.42
+E0059,Dental flask,14.19
+E0060,Dental Articulator,19.09
+E0061,Dental clamp,13.48
+E0062,Wire cutter,14.21
+E0063,Suspension motor/micromotor with stand,688.5
+E0064,Spirit lamp,1.49
+E0065,Mixing spatula,3.93
+E0066,Rubber mixing bowl,8.15
+E0067,Plaster knife,3.82
+E0068,Hot air syringe,13.41
+E0069,Orthodontic plier(set)see annex,19.72
+E0070,Bench press,107.37
+E0071,Fret saw,2.11
+E0072,Crown flask with clamp,22.37
+E0073,Vibrator,101.57
+E0074,Model trimmer,152.84
+E0075,Hydroflask/pressure pot,161.04
+E0076,Sand plaster,176.45
+E0077,Casting machine,185.81
+E0078,Curing bath,224.14
+E0079,High speed grinder,255.08
+E0080,Model drier,322.73
+E0081,Pin dexing,372.37
+E0082,Heating furnace,331.59
+E0083,Dewaxing machine,342.06
+E0084,Polishing lathe,454.34
+E0085,Work bench,678.51
+E0086,Programmed porcelain machine,2072.15
+E0087,Air compressor,2720.88
+E0088,Examination probes,3.05
+E0089,Explorers,3.09
+E0090,Dental examination mirror,7.51
+E0091,"Hand pieces, 4holes, high speed",206.96
+E0092,Dental chair unit,7699.47
+E0093,Dental extraction forceps(assorted) -see annex,219.68
+E0094,X - ray viewer,230.49
+E0095,Amalgamator,211.6
+E0096,Dental instrument cabinet,377.81
+E0097,Suction machine,463.05
+E0098,Ultrasonic scalar,1015.32
+E0099,Dental Compressor(50litres),2476.11
+E0100,Dental autoclave,3646.8
+E0102,BP machine,11.73
+E0103,Jobson horn probe,13.05
+E0104,Sterilising drum,24.06
+E0105,Nasal speculum,26.82
+E0106,Cellman hooks,41.17
+E0107,Laryngeal mirror,56.28
+E0108,Troucher and canulla,49.58
+E0109,"Brondoscope, adult",87.6
+E0110,"Brondoscope, paed",83.01
+E0111,Pneumatic ear speculum,109.15
+E0112,Tuning fork,117.36
+E0113,Otoscope,144.1
+E0114,"Telespectomy set, paed",130.08
+E0115,Ear Syringe,180.9
+E0116,"Telespectomy set, adult",172.05
+E0117,Oephagoscope,202.7
+E0118,ENT Diagnostic Set,267.56
+E0119,Tonsilectomy,225.87
+E0120,Portable lamp,275.75
+E0121,Head light,314.15
+E0122,Noise Box,363.87
+E0123,Cautery machine,444.17
+E0124,ENT Table,4754.97
+E0125,Tympanometer,1075.75
+E0126,Lightsource(endoscopic),1642.99
+E0127,"Audiometer, diagnostic",4161.34
+E0128,ENT Treatment Chair,8150.18
+E0129,Spotlight,13.39
+E0130,Eye chart,19.13
+E0131,Operating stool,35.65
+E0132,Eye Chart E-type,49.54
+E0133,ECCE + 11 set,122.51
+E0134,ICCE set,184.49
+E0135,Lid surgery set,216.17
+E0136,Cataract set,310.89
+E0137,Eye loupe,513.43
+E0138,Retinoscope,703.5
+E0139,Slit Lamp,5807.25
+E0140,Ophthalmoscope set,179.47
+E0141,Focimeter 240,863.22
+E0142,Eye tonometer,1101.03
+E0143,Perimeter,1362.14
+E0144,Corneal trephine,1810.46
+E0145,Trial Lens,2658.19
+E0146,Plant operating ophthamology,4900.12
+E0147,Eye operation microscope,5258.68
+E0148,Eye examination microscope with tonometer,6262.37
+E0149,Indirect Opthalmoscope,8527.43
+E0151,Baby cot,319.04
+E0152,Bed,1060.14
+E0154,"Trolley, instrument",166.84
+E0155,"Suction machine, electric",520.08
+E0157,Patient trolley,189.83
+E0159,Syringe pump,100.81
+E0160,Infusion pump,162.8
+E0162,ICU bed,1130.26
+E0165,Patient monitor,3838.98
+E0170,"Refrigerator, general",470.8
+E0171,Infant radiant warmer,868.23
+E0173,"Ventilator, infant",5801.9
+E0174,"Ventilator, adult",8813.14
+E0175,Mobile X -ray unit,35053.04
+E0177,Binocular microscope,212.49
+E0178,Hand tally counter,170.6
+E0179,Glucose analyzer,44.36
+E0180,Centrifuge,474.84
+E0181,Vaccine transport box,70.24
+E0182,Slide warmer,71.43
+E0183,Mixer,249.52
+E0184,Water bath,537.14
+E0185,Calorimeter,253.27
+E0186,Trip Balance,330.73
+E0187,Digital count pen,1678.11
+E0188,Kerosene Stove,7.2
+E0190,Weighing scale adult,72.55
+E0191,"Glass ware set, Laboratory",101.32
+E0192,Neuberchamber,202.9
+E0194,Analytic balance,250.74
+E0195,Water distiller,867.47
+E0196,PH meter,1124.8
+E0197,Electrophoresis apparatus,1139.82
+E0198,Bilirubin meter,1448.13
+E0199,"Incubator, laboratory",1575.24
+E0200,Blood bank refrigerator,1631.38
+E0201,"Haemoglobinometer, electronic",2010.57
+E0202,Hot air oven,2613.75
+E0203,Water de-ionizer,3000.43
+E0204,"Blood cell counter, Electrical",3849
+E0208,Autoclave,3441.39
+E0209,HIV screening machine/ Test kits,10613.69
+E0210,Obstetric bed,112.32
+E0214,Delivery bed,2451.6
+E0215,Sphygmomanometer(BP machine),12.32
+E0216,"Incubator, infant",2963.02
+E0217,Infant weighing scale,30.5
+E0218,Oxygen set,126.42
+E0219,Ultrasonic Nebulizer,254.93
+E0220,Examination Lamp,277.64
+E0221,Phototherapy unit,637.53
+E0223,Rescucitaire,1031.47
+E0224,Blood warmer,444.48
+E0225,Gynecological examination table,471.46
+E0226,Refrigerator,475.56
+E0227,"Suction machine, manual",471.76
+E0228,Fetus detector,1138.96
+E0232,Mosquito forceps,3.36
+E0233,IUD Insertion set,14.58
+E0234,Sponge holding forceps,2.93
+E0235,Kidney dishes,2.61
+E0237,Sphygmomanometer,13.79
+E0238,Speculum set,17.31
+E0245,Uterine Sound,11.95
+E0247,Implant removal kit,17.39
+E0251,Cool box,143.04
+E0254,"Refrigerator, KEPI",990.41
+E0255,Electric cookers,76.29
+E0271,"Operating table, simple",823.28
+E0273,Assorted toys,4.23
+E0274,Goniometer,6.58
+E0275,Dart board,24.23
+E0276,Plaster shoers,29.08
+E0277,Static bicycle,52.83
+E0278,Stool frame,12.08
+E0279,Children piano with key board,13.54
+E0280,Drought board,17.03
+E0281,Hammock,32.57
+E0282,Beach balls,48.55
+E0283,Loom frame,130.13
+E0284,Hammer,2.18
+E0285,Hand saw,4.67
+E0286,Lamp shade frame,10.64
+E0287,FEPS machine,11.28
+E0288,Scrabble,10.28
+E0289,Chess board,10.22
+E0290,Tin snip,14.48
+E0291,Playing mats,22.79
+E0292,Ladder and slide,29.21
+E0293,Rotating punch,32.05
+E0294,Balancing board,40.16
+E0295,Crawling tunnel,61.43
+E0296,Spinning board,74.14
+E0297,Stemgnosis set,110.18
+E0298,Examination couch,285.07
+E0299,Shoulder exerciser,207.7
+E0300,Scissors,3.58
+E0301,Surform,14.71
+E0302,Bending iron,30.31
+E0303,Spoke shave,33.65
+E0304,Parallel bar,71.67
+E0305,Limb Vice,72.21
+E0306,Engineer's vice,74.94
+E0307,PVA sealing iron,68.12
+E0308,Jig saw,7.23
+E0310,Heat gun,217.79
+E0312,Electric cast cutter,307.76
+E0313,Grinding machine,329.95
+E0314,Column drill with quick chuck,403.97
+E0316,Drilling machine,416.57
+E0317,Orthotic kit,466.44
+E0318,Arc welding machine,516.19
+E0319,Vacuum laminating machine,595.99
+E0320,Router machine,589.07
+E0321,Electric oven,713.86
+E0322,Shoe stretcher,757.97
+E0323,Prosthetic kit,734.59
+E0324,Electric leather sewing machine,1481.31
+E0329,"Examination couch, metal/wooden",284.35
+E0333,X-Ray viewer,222.98
+E0338,Stretcher with IV pole,162.69
+E0340,Lockable Cabinet,95.8
+E0341,Oxygen Set,131.49
+E0347,Fire extinguisher,144.44
+E0348,Dispensing stools,18.17
+E0349,"Fridge, Pharmacetical",452.63
+E0350,Motor & pestle,10.33
+E0351,Counting trays,51.63
+E0352,Tablet counter,110.23
+E0353,Drug cabinet,96.24
+E0354,Weighing scale(electronic),199.81
+E0355,"Balance, heavy duty",326.54
+E0356,"Balance, precision",581.27
+E0357,Distiller,658.55
+E0359,Crutches,18.8
+E0360,Walking frame,29.46
+E0362,Hand exerciser,142.4
+E0363,Exerciser mirror,5.13
+E0364,Calipers,9.46
+E0365,Exercise mat,74.98
+E0366,TENS Unit,81.22
+E0367,Timer,13.27
+E0368,Tripod,16.2
+E0369,Shoulder wheel,21.43
+E0370,Quandricep exerciser,23.85
+E0371,Pulley,36.36
+E0372,Rowing machine,36.64
+E0373,Lumber traction,50.71
+E0374,Cervical traction,53.64
+E0375,Dump bells(assorted),74.45
+E0376,Wheel chair,91.21
+E0377,Chest expander,110.29
+E0378,Wall bars,121.05
+E0379,Electro massager,173.06
+E0380,Cryotherapy,168.28
+E0381,Pack heater,297.04
+E0383,Infra red lamp,383.51
+E0384,Ultraviolet,572.99
+E0385,Wax bath,647.59
+E0386,Infra red radiation(IRR) craddle,1074.19
+E0387,Parallel bars,468.87
+E0388,Ultrasound unit,672.64
+E0389,"Stimulator, electric",1526.48
+E0390,Microwave Diathermy,2547.14
+E0391,Shortwave Diathermy,4295.94
+E0393,"Resuscitation bag, adult",26.11
+E0394,"Resuscitation bag, infant",23.22
+E0395,Oxygen regulator,115.82
+E0396,Instrument table (MAYO),239.41
+E0398,Surgeon foot step,16.93
+E0399,Surgeon's stool,33.74
+E0400,Instrument trolleys,164
+E0402,Myomectomy(see annex),207.42
+E0405,"Operating theatre table, major",3146.29
+E0406,Vital Signs Monitor,3559.61
+E0408,Electrosurgical unit,5644.94
+E0409,"Operating theatre lamp,ceiling mounted.",10752.66
+E0410,Anaesthetic machine,17219.51
+E0411,Sterilizing drum(see annex),20.28
+E0412,Instrument cabinet,370.92
+E0413,General set(see annex),348.61
+E0415,"Operating theatre lamp, mobile",873.14
+E0417,Caesaerian section set,2513.88
+E0419,Vacuum Plant,6772.93
+E0426,Operation table,2928.03
+E0428,Operating light,10280.73
+E0429,Anaesthetic machine with ventilator,18394.11
+E0440,Dressing pack,31.02
+E0442,"Hollow ware set, ward (Assorted)",58.52
+E0447,Electric heater(wall mounted),149.2
+E0449,Commode chair,226.99
+E0453,Electric kettle,37.1
+E0455,Weighing scale adult with height measuring,74.78
+E0457,"Trolley, oxygen gas cylinder",68.48
+E0458,Bed craddle,102.05
+E0466,X-ray safe light,1517.94
+E0468,Film marker,22.12
+E0470,X-ray viewer(single screen),208.52
+E0471,X-ray viewer(double screen),460.85
+E0473,Manual Film Processor,843.64
+E0474,Film Drier,818.12
+E0476,Film hopper,1315.53
+E0478,Dental X-ray film processor,1649.36
+E0479,Cassettee pass- box,1772.65
+E0480,Automatic Film Processor,26431.67
+E0483,General X-ray Unit,63859.41
+E0484,Darkroom accessories(sets),3232.7
+E0485,"X-ray Cassettes(see annex),",3958.63
+E0486,Dental X-ray,22845.18
+E0487,Ultra sound unit(general),19035.36
+E0489,OPG Unit,36657.15
+E0490,Mammography unit,38728.14
+E0491,Mobile X -ray unit with Image intensifier,48177.6
+E0493,Screening unit,88151.58
+E0000,Thermometer clinical,1.06
+E0001,"Intubation tubes, assorted sizes",2.68
+E0002,Pedal Pins,3.42
+E0003,Stethoscope,3.93
+E0004,Chest tubes,4.31
+E0005,Mouth gags,6.32
+E0006,Thomas Splints,8.64
+E0007,"Sphygmomanometer,",13.26
+E0008,Stainless Steel trays,16.12
+E0009,Infusion stand,34.9
+E0010,Wheel chair adult,92.02
+E0011,"Trolley, patient, stretcher",189.38
+E0012,"Airways,assorted sizes",6
+E0013,Cervical collars,11.38
+E0014,Gastric lavage set,9.59
+E0015,Nebulisers,16.84
+E0016,"Ambu bag, adult",22.99
+E0017,"Ambu bag, pediatrics",26.83
+E0018,Resuscitation trays,42
+E0019,Screen bed,69.99
+E0020,Examination couch metal/wooden,155.42
+E0021,Fetoscope,0.97
+E0022,Wall clock,3.42
+E0023,Autoclaving Drums,21.89
+E0024,Underwater seal drainage,25.21
+E0025,Diagnostic set,45.02
+E0026,Enema Set,88.25
+E0027,"Trolley, dressing",103.45
+E0028,Oxygen regulator with flow meter,134.84
+E0029,Trolley instrument(assorted),155.35
+E0030,"Suction machine, electrical",477.41
+E0031,"Trolley, medicine/drug",586.42
+E0032,Tape measure,3.41
+E0033,Percussion Hammer,8.49
+E0034,Emergency lamp,9.79
+E0035,Spot light,12.34
+E0036,"Stethoscope, baby",32.78
+E0037,Manual suction machine,45.74
+E0038,"Examination lamp, mobile",98.64
+E0039,Laryngoscope,141.02
+E0040,"Trolley, general purpose",176.58
+E0041,X ray Viewers,198.72
+E0042,"Trolley,Emergency",299.36
+E0043,Oxygen concentrators,886.38
+E0044,ECG Monitor,5705.41
+E0045,"Trolley, gas cylinder",76.06
+E0046,"Trolley, linen",185.56
+E0047,"Refrigerator, pharmaceutical",477.41
+E0048,Pulse oximeter,1327.59
+E0049,Defibrillator,1841.36
+E0050,Sterilizing drums (assorted),23.38
+E0051,Instrument sets (assorted),1016.54
+E0052,Instrument Shelves,142.95
+E0053,Instrument drying cabinet,163.24
+E0054,Instrument Cabinet,371.66
+E0055,"Autoclave, large",24198.53
+E0056,Ultrasonic Washer,885.57
+E0057,Wax knife,3.49
+E0058,Lecron cover,4.41
+E0059,Dental flask,15.3
+E0060,Dental Articulator,18.99
+E0061,Dental clamp,13.96
+E0062,Wire cutter,15.26
+E0063,Suspension motor/micromotor with stand,674.94
+E0064,Spirit lamp,1.45
+E0065,Mixing spatula,3.95
+E0066,Rubber mixing bowl,8.65
+E0067,Plaster knife,4.07
+E0068,Hot air syringe,14.27
+E0069,Orthodontic plier(set)see annex,21.51
+E0070,Bench press,111.57
+E0071,Fret saw,1.96
+E0072,Crown flask with clamp,22.32
+E0073,Vibrator,115.02
+E0074,Model trimmer,134.63
+E0075,Hydroflask/pressure pot,169.43
+E0076,Sand plaster,164.21
+E0077,Casting machine,176.6
+E0078,Curing bath,223.38
+E0079,High speed grinder,258.48
+E0080,Model drier,345.62
+E0081,Pin dexing,340.57
+E0082,Heating furnace,355.61
+E0083,Dewaxing machine,334.96
+E0084,Polishing lathe,450.28
+E0085,Work bench,676.73
+E0086,Programmed porcelain machine,2106.11
+E0087,Air compressor,2468.52
+E0088,Examination probes,3.14
+E0089,Explorers,3.45
+E0090,Dental examination mirror,6.85
+E0091,"Hand pieces, 4holes, high speed",180.65
+E0092,Dental chair unit,9049.55
+E0093,Dental extraction forceps(assorted) -see annex,216.56
+E0094,X - ray viewer,201.22
+E0095,Amalgamator,242.47
+E0096,Dental instrument cabinet,364.01
+E0097,Suction machine,531.44
+E0098,Ultrasonic scalar,1009.39
+E0099,Dental Compressor(50litres),2467.55
+E0100,Dental autoclave,3800.45
+E0102,BP machine,11.46
+E0103,Jobson horn probe,12.54
+E0104,Sterilising drum,21.92
+E0105,Nasal speculum,27.5
+E0106,Cellman hooks,43.95
+E0107,Laryngeal mirror,49.55
+E0108,Troucher and canulla,50.96
+E0109,"Brondoscope, adult",87.6
+E0110,"Brondoscope, paed",89.31
+E0111,Pneumatic ear speculum,105.15
+E0112,Tuning fork,134.02
+E0113,Otoscope,129.3
+E0114,"Telespectomy set, paed",139.59
+E0115,Ear Syringe,181.19
+E0116,"Telespectomy set, adult",177.76
+E0117,Oephagoscope,202.44
+E0118,ENT Diagnostic Set,246.32
+E0119,Tonsilectomy,256.61
+E0120,Portable lamp,239.21
+E0121,Head light,288.39
+E0122,Noise Box,425.76
+E0123,Cautery machine,440.68
+E0124,ENT Table,4799.27
+E0125,Tympanometer,1079.48
+E0126,Lightsource(endoscopic),1601.03
+E0127,"Audiometer, diagnostic",3873.53
+E0128,ENT Treatment Chair,9224.93
+E0129,Spotlight,12.9
+E0130,Eye chart,17.22
+E0131,Operating stool,34.81
+E0132,Eye Chart E-type,43.68
+E0133,ECCE + 11 set,108.65
+E0134,ICCE set,169.45
+E0135,Lid surgery set,210.47
+E0136,Cataract set,334.27
+E0137,Eye loupe,529.85
+E0138,Retinoscope,713.57
+E0139,Slit Lamp,6129.86
+E0140,Ophthalmoscope set,190.95
+E0141,Focimeter 240,771.58
+E0142,Eye tonometer,1139.95
+E0143,Perimeter,1466.76
+E0144,Corneal trephine,1711.49
+E0145,Trial Lens,2426.26
+E0146,Plant operating ophthamology,4692.89
+E0147,Eye operation microscope,4993.07
+E0148,Eye examination microscope with tonometer,5524.9
+E0149,Indirect Opthalmoscope,8850.99
+E0151,Baby cot,340.81
+E0152,Bed,1064.78
+E0154,"Trolley, instrument",151.82
+E0155,"Suction machine, electric",497.02
+E0157,Patient trolley,180.91
+E0159,Syringe pump,96.62
+E0160,Infusion pump,190.37
+E0162,ICU bed,1128.31
+E0165,Patient monitor,3201.41
+E0170,"Refrigerator, general",536.93
+E0171,Infant radiant warmer,784.68
+E0173,"Ventilator, infant",6157.61
+E0174,"Ventilator, adult",7786.92
+E0175,Mobile X -ray unit,35522.47
+E0177,Binocular microscope,217.05
+E0178,Hand tally counter,172.95
+E0179,Glucose analyzer,46.12
+E0180,Centrifuge,428.31
+E0181,Vaccine transport box,71.08
+E0182,Slide warmer,67.9
+E0183,Mixer,254.61
+E0184,Water bath,632.24
+E0185,Calorimeter,246.75
+E0186,Trip Balance,346.4
+E0187,Digital count pen,1917.61
+E0188,Kerosene Stove,6.89
+E0190,Weighing scale adult,75.06
+E0191,"Glass ware set, Laboratory",114.28
+E0192,Neuberchamber,203.03
+E0194,Analytic balance,251.94
+E0195,Water distiller,832.59
+E0196,PH meter,1082.39
+E0197,Electrophoresis apparatus,1196.82
+E0198,Bilirubin meter,1459.96
+E0199,"Incubator, laboratory",1520.55
+E0200,Blood bank refrigerator,1833.13
+E0201,"Haemoglobinometer, electronic",2244.39
+E0202,Hot air oven,2586.77
+E0203,Water de-ionizer,2887.59
+E0204,"Blood cell counter, Electrical",3658.04
+E0208,Autoclave,3327.02
+E0209,HIV screening machine/ Test kits,9976.13
+E0210,Obstetric bed,104.11
+E0214,Delivery bed,2487.63
+E0215,Sphygmomanometer(BP machine),12.81
+E0216,"Incubator, infant",2942.63
+E0217,Infant weighing scale,32.57
+E0218,Oxygen set,122.39
+E0219,Ultrasonic Nebulizer,258.92
+E0220,Examination Lamp,272.02
+E0221,Phototherapy unit,596.84
+E0223,Rescucitaire,1064.31
+E0224,Blood warmer,416.02
+E0225,Gynecological examination table,502.06
+E0226,Refrigerator,531.11
+E0227,"Suction machine, manual",448.13
+E0228,Fetus detector,1163.17
+E0232,Mosquito forceps,3.72
+E0233,IUD Insertion set,15.21
+E0234,Sponge holding forceps,2.99
+E0235,Kidney dishes,2.59
+E0237,Sphygmomanometer,12.59
+E0238,Speculum set,18
+E0245,Uterine Sound,13.43
+E0247,Implant removal kit,16.2
+E0251,Cool box,139.16
+E0254,"Refrigerator, KEPI",1089.62
+E0255,Electric cookers,66.24
+E0271,"Operating table, simple",833.4
+E0273,Assorted toys,4.18
+E0274,Goniometer,6.54
+E0275,Dart board,23.48
+E0276,Plaster shoers,30.32
+E0277,Static bicycle,48.58
+E0278,Stool frame,11.55
+E0279,Children piano with key board,14.27
+E0280,Drought board,17.55
+E0281,Hammock,34.08
+E0282,Beach balls,49.91
+E0283,Loom frame,149.15
+E0284,Hammer,2.07
+E0285,Hand saw,5.32
+E0286,Lamp shade frame,9.84
+E0287,FEPS machine,11.41
+E0288,Scrabble,10.11
+E0289,Chess board,11.23
+E0290,Tin snip,13.69
+E0291,Playing mats,26.68
+E0292,Ladder and slide,31.68
+E0293,Rotating punch,34.15
+E0294,Balancing board,42.08
+E0295,Crawling tunnel,52.01
+E0296,Spinning board,73.68
+E0297,Stemgnosis set,106.88
+E0298,Examination couch,257.8
+E0299,Shoulder exerciser,230.05
+E0300,Scissors,3.76
+E0301,Surform,15.15
+E0302,Bending iron,27.79
+E0303,Spoke shave,34.32
+E0304,Parallel bar,74.82
+E0305,Limb Vice,71.97
+E0306,Engineer's vice,64.11
+E0307,PVA sealing iron,64.38
+E0308,Jig saw,7.41
+E0310,Heat gun,220.45
+E0312,Electric cast cutter,289.93
+E0313,Grinding machine,324.33
+E0314,Column drill with quick chuck,451.12
+E0316,Drilling machine,452.4
+E0317,Orthotic kit,486.79
+E0318,Arc welding machine,588.54
+E0319,Vacuum laminating machine,549.01
+E0320,Router machine,558.45
+E0321,Electric oven,683.28
+E0322,Shoe stretcher,644.09
+E0323,Prosthetic kit,706.51
+E0324,Electric leather sewing machine,1513.99
+E0329,"Examination couch, metal/wooden",256.7
+E0333,X-Ray viewer,212.81
+E0338,Stretcher with IV pole,170.43
+E0340,Lockable Cabinet,114.94
+E0341,Oxygen Set,138.02
+E0347,Fire extinguisher,147.01
+E0348,Dispensing stools,16.3
+E0349,"Fridge, Pharmacetical",479.99
+E0350,Motor & pestle,11.35
+E0351,Counting trays,56.41
+E0352,Tablet counter,114.1
+E0353,Drug cabinet,114.27
+E0354,Weighing scale(electronic),209.39
+E0355,"Balance, heavy duty",336.88
+E0356,"Balance, precision",613.71
+E0357,Distiller,702.06
+E0359,Crutches,19.84
+E0360,Walking frame,27.63
+E0362,Hand exerciser,142.7
+E0363,Exerciser mirror,5.51
+E0364,Calipers,10.27
+E0365,Exercise mat,73.81
+E0366,TENS Unit,72.6
+E0367,Timer,12.03
+E0368,Tripod,15.25
+E0369,Shoulder wheel,21.22
+E0370,Quandricep exerciser,26.75
+E0371,Pulley,35.94
+E0372,Rowing machine,36.47
+E0373,Lumber traction,51.15
+E0374,Cervical traction,54.42
+E0375,Dump bells(assorted),66.65
+E0376,Wheel chair,81.32
+E0377,Chest expander,113.39
+E0378,Wall bars,115.87
+E0379,Electro massager,158.81
+E0380,Cryotherapy,176.52
+E0381,Pack heater,293.75
+E0383,Infra red lamp,349.3
+E0384,Ultraviolet,592.76
+E0385,Wax bath,673.37
+E0386,Infra red radiation(IRR) craddle,1186.47
+E0387,Parallel bars,512.25
+E0388,Ultrasound unit,680.03
+E0389,"Stimulator, electric",1436.69
+E0390,Microwave Diathermy,2648.2
+E0391,Shortwave Diathermy,4077.51
+E0393,"Resuscitation bag, adult",22.52
+E0394,"Resuscitation bag, infant",26.55
+E0395,Oxygen regulator,124.67
+E0396,Instrument table (MAYO),251.63
+E0398,Surgeon foot step,19.07
+E0399,Surgeon's stool,37.06
+E0400,Instrument trolleys,160.65
+E0402,Myomectomy(see annex),216.39
+E0405,"Operating theatre table, major",3215.03
+E0406,Vital Signs Monitor,3339.34
+E0408,Electrosurgical unit,5990.97
+E0409,"Operating theatre lamp,ceiling mounted.",11605.73
+E0410,Anaesthetic machine,17845.74
+E0411,Sterilizing drum(see annex),21.45
+E0412,Instrument cabinet,376.79
+E0413,General set(see annex),372.07
+E0415,"Operating theatre lamp, mobile",881.15
+E0417,Caesaerian section set,2713.51
+E0419,Vacuum Plant,6117.26
+E0426,Operation table,3257.59
+E0428,Operating light,11344.23
+E0429,Anaesthetic machine with ventilator,18142.63
+E0440,Dressing pack,33.61
+E0442,"Hollow ware set, ward (Assorted)",58.87
+E0447,Electric heater(wall mounted),142.07
+E0449,Commode chair,249.31
+E0453,Electric kettle,36.95
+E0455,Weighing scale adult with height measuring,62.64
+E0457,"Trolley, oxygen gas cylinder",70.35
+E0458,Bed craddle,105.78
+E0466,X-ray safe light,1402.74
+E0468,Film marker,19.72
+E0470,X-ray viewer(single screen),216.86
+E0471,X-ray viewer(double screen),398.76
+E0473,Manual Film Processor,905.61
+E0474,Film Drier,917.61
+E0476,Film hopper,1310.5
+E0478,Dental X-ray film processor,1658.92
+E0479,Cassettee pass- box,1887.89
+E0480,Automatic Film Processor,25342.59
+E0483,General X-ray Unit,58779.6
+E0484,Darkroom accessories(sets),3597.12
+E0485,"X-ray Cassettes(see annex),",4187.04
+E0486,Dental X-ray,23058.58
+E0487,Ultra sound unit(general),21863.1
+E0489,OPG Unit,35567.53
+E0490,Mammography unit,45004.12
+E0491,Mobile X -ray unit with Image intensifier,45151.34
+E0493,Screening unit,84907.68
+E0000,Thermometer clinical,1.01
+E0001,"Intubation tubes, assorted sizes",2.5
+E0002,Pedal Pins,2.88
+E0003,Stethoscope,4.52
+E0004,Chest tubes,4.31
+E0005,Mouth gags,6.26
+E0006,Thomas Splints,7.72
+E0007,"Sphygmomanometer,",13.32
+E0008,Stainless Steel trays,16.26
+E0009,Infusion stand,33.14
+E0010,Wheel chair adult,93.92
+E0011,"Trolley, patient, stretcher",189.52
+E0012,"Airways,assorted sizes",5.8
+E0013,Cervical collars,9.68
+E0014,Gastric lavage set,11.03
+E0015,Nebulisers,18.77
+E0016,"Ambu bag, adult",23.35
+E0017,"Ambu bag, pediatrics",26.75
+E0018,Resuscitation trays,41.88
+E0019,Screen bed,68.15
+E0020,Examination couch metal/wooden,146.86
+E0021,Fetoscope,0.98
+E0022,Wall clock,3.62
+E0023,Autoclaving Drums,22.82
+E0024,Underwater seal drainage,24.11
+E0025,Diagnostic set,49.85
+E0026,Enema Set,90.84
+E0027,"Trolley, dressing",97.15
+E0028,Oxygen regulator with flow meter,119.23
+E0029,Trolley instrument(assorted),168.19
+E0030,"Suction machine, electrical",465.12
+E0031,"Trolley, medicine/drug",633.53
+E0032,Tape measure,3.25
+E0033,Percussion Hammer,7.86
+E0034,Emergency lamp,10.8
+E0035,Spot light,12.99
+E0036,"Stethoscope, baby",32.45
+E0037,Manual suction machine,43.95
+E0038,"Examination lamp, mobile",100.61
+E0039,Laryngoscope,145.5
+E0040,"Trolley, general purpose",159.98
+E0041,X ray Viewers,202.45
+E0042,"Trolley,Emergency",331.84
+E0043,Oxygen concentrators,888.89
+E0044,ECG Monitor,5010.46
+E0045,"Trolley, gas cylinder",66.68
+E0046,"Trolley, linen",175.47
+E0047,"Refrigerator, pharmaceutical",527.47
+E0048,Pulse oximeter,1497.6
+E0049,Defibrillator,1797.22
+E0050,Sterilizing drums (assorted),21.69
+E0051,Instrument sets (assorted),1022.68
+E0052,Instrument Shelves,143.32
+E0053,Instrument drying cabinet,176.15
+E0054,Instrument Cabinet,350.92
+E0055,"Autoclave, large",25766.53
+E0056,Ultrasonic Washer,764.2
+E0057,Wax knife,3.56
+E0058,Lecron cover,5
+E0059,Dental flask,13.67
+E0060,Dental Articulator,19.05
+E0061,Dental clamp,12.92
+E0062,Wire cutter,13.95
+E0063,Suspension motor/micromotor with stand,742.17
+E0064,Spirit lamp,1.39
+E0065,Mixing spatula,4.37
+E0066,Rubber mixing bowl,9.29
+E0067,Plaster knife,4.33
+E0068,Hot air syringe,12.81
+E0069,Orthodontic plier(set)see annex,20.59
+E0070,Bench press,114.02
+E0071,Fret saw,2.16
+E0072,Crown flask with clamp,20.12
+E0073,Vibrator,109.21
+E0074,Model trimmer,136.1
+E0075,Hydroflask/pressure pot,173.51
+E0076,Sand plaster,189.52
+E0077,Casting machine,172.83
+E0078,Curing bath,244.44
+E0079,High speed grinder,288.44
+E0080,Model drier,372.27
+E0081,Pin dexing,332.13
+E0082,Heating furnace,324.17
+E0083,Dewaxing machine,371.28
+E0084,Polishing lathe,388.75
+E0085,Work bench,713.26
+E0086,Programmed porcelain machine,2282.63
+E0087,Air compressor,2605.48
+E0088,Examination probes,3.36
+E0089,Explorers,3.4
+E0090,Dental examination mirror,7.69
+E0091,"Hand pieces, 4holes, high speed",207.85
+E0092,Dental chair unit,8069.71
+E0093,Dental extraction forceps(assorted) -see annex,208.8
+E0094,X - ray viewer,210.94
+E0095,Amalgamator,218.09
+E0096,Dental instrument cabinet,368.17
+E0097,Suction machine,521.8
+E0098,Ultrasonic scalar,1106.46
+E0099,Dental Compressor(50litres),2538.47
+E0100,Dental autoclave,3874.66
+E0102,BP machine,13.46
+E0103,Jobson horn probe,14.03
+E0104,Sterilising drum,24.19
+E0105,Nasal speculum,26.07
+E0106,Cellman hooks,41.26
+E0107,Laryngeal mirror,54.02
+E0108,Troucher and canulla,50.64
+E0109,"Brondoscope, adult",85.02
+E0110,"Brondoscope, paed",83.1
+E0111,Pneumatic ear speculum,104.32
+E0112,Tuning fork,130.86
+E0113,Otoscope,147.63
+E0114,"Telespectomy set, paed",151.29
+E0115,Ear Syringe,175.51
+E0116,"Telespectomy set, adult",186.88
+E0117,Oephagoscope,223.95
+E0118,ENT Diagnostic Set,258.58
+E0119,Tonsilectomy,235.98
+E0120,Portable lamp,264.73
+E0121,Head light,337.56
+E0122,Noise Box,385.23
+E0123,Cautery machine,405.49
+E0124,ENT Table,4154.3
+E0125,Tympanometer,1110.18
+E0126,Lightsource(endoscopic),1628.35
+E0127,"Audiometer, diagnostic",4350.8
+E0128,ENT Treatment Chair,8091.12
+E0129,Spotlight,12.42
+E0130,Eye chart,18.92
+E0131,Operating stool,37.62
+E0132,Eye Chart E-type,46.01
+E0133,ECCE + 11 set,117.68
+E0134,ICCE set,176.56
+E0135,Lid surgery set,200
+E0136,Cataract set,301.98
+E0137,Eye loupe,564.65
+E0138,Retinoscope,687.94
+E0139,Slit Lamp,6113.07
+E0140,Ophthalmoscope set,169.82
+E0141,Focimeter 240,855.6
+E0142,Eye tonometer,1134.1
+E0143,Perimeter,1480.05
+E0144,Corneal trephine,1534.5
+E0145,Trial Lens,2221.35
+E0146,Plant operating ophthamology,4238.97
+E0147,Eye operation microscope,5361.02
+E0148,Eye examination microscope with tonometer,6066.33
+E0149,Indirect Opthalmoscope,8733.59
+E0151,Baby cot,332.45
+E0152,Bed,1057.29
+E0154,"Trolley, instrument",160.21
+E0155,"Suction machine, electric",493.94
+E0157,Patient trolley,199.66
+E0159,Syringe pump,104.44
+E0160,Infusion pump,183.56
+E0162,ICU bed,1005.66
+E0165,Patient monitor,3197.01
+E0170,"Refrigerator, general",485.41
+E0171,Infant radiant warmer,840.57
+E0173,"Ventilator, infant",5692.51
+E0174,"Ventilator, adult",8537.47
+E0175,Mobile X -ray unit,32018.05
+E0177,Binocular microscope,249.1
+E0178,Hand tally counter,163.63
+E0179,Glucose analyzer,43.48
+E0180,Centrifuge,486.64
+E0181,Vaccine transport box,64.58
+E0182,Slide warmer,71.7
+E0183,Mixer,261.54
+E0184,Water bath,580.89
+E0185,Calorimeter,214.63
+E0186,Trip Balance,311.18
+E0187,Digital count pen,1914.44
+E0188,Kerosene Stove,6.94
+E0190,Weighing scale adult,63.68
+E0191,"Glass ware set, Laboratory",97.32
+E0192,Neuberchamber,200.74
+E0194,Analytic balance,257.87
+E0195,Water distiller,922.9
+E0196,PH meter,1079.66
+E0197,Electrophoresis apparatus,1161.63
+E0198,Bilirubin meter,1322.59
+E0199,"Incubator, laboratory",1605.8
+E0200,Blood bank refrigerator,1814.08
+E0201,"Haemoglobinometer, electronic",2083.9
+E0202,Hot air oven,2206.44
+E0203,Water de-ionizer,3448.01
+E0204,"Blood cell counter, Electrical",3716.15
+E0208,Autoclave,3852.71
+E0209,HIV screening machine/ Test kits,10015.76
+E0210,Obstetric bed,104.71
+E0214,Delivery bed,2679.11
+E0215,Sphygmomanometer(BP machine),12.62
+E0216,"Incubator, infant",3369.03
+E0217,Infant weighing scale,31.48
+E0218,Oxygen set,123.72
+E0219,Ultrasonic Nebulizer,262.54
+E0220,Examination Lamp,241.96
+E0221,Phototherapy unit,574.83
+E0223,Rescucitaire,1134.04
+E0224,Blood warmer,495.53
+E0225,Gynecological examination table,523.47
+E0226,Refrigerator,527.26
+E0227,"Suction machine, manual",455.75
+E0228,Fetus detector,1194.75
+E0232,Mosquito forceps,3.2
+E0233,IUD Insertion set,13.87
+E0234,Sponge holding forceps,3.02
+E0235,Kidney dishes,2.55
+E0237,Sphygmomanometer,12.91
+E0238,Speculum set,18.22
+E0245,Uterine Sound,12.49
+E0247,Implant removal kit,16.23
+E0251,Cool box,133.57
+E0254,"Refrigerator, KEPI",1028.02
+E0255,Electric cookers,73.23
+E0271,"Operating table, simple",766.77
+E0273,Assorted toys,4.16
+E0274,Goniometer,7.48
+E0275,Dart board,23
+E0276,Plaster shoers,29.49
+E0277,Static bicycle,50.06
+E0278,Stool frame,10.24
+E0279,Children piano with key board,14.82
+E0280,Drought board,18.06
+E0281,Hammock,34.58
+E0282,Beach balls,45.07
+E0283,Loom frame,152.29
+E0284,Hammer,2.09
+E0285,Hand saw,5.19
+E0286,Lamp shade frame,9.72
+E0287,FEPS machine,9.84
+E0288,Scrabble,10.95
+E0289,Chess board,10.29
+E0290,Tin snip,14.03
+E0291,Playing mats,26.85
+E0292,Ladder and slide,33.15
+E0293,Rotating punch,36.39
+E0294,Balancing board,40.05
+E0295,Crawling tunnel,59.49
+E0296,Spinning board,76.55
+E0297,Stemgnosis set,114.13
+E0298,Examination couch,259.13
+E0299,Shoulder exerciser,222.56
+E0300,Scissors,3.18
+E0301,Surform,12.86
+E0302,Bending iron,29.33
+E0303,Spoke shave,34.98
+E0304,Parallel bar,68.09
+E0305,Limb Vice,66.23
+E0306,Engineer's vice,75.55
+E0307,PVA sealing iron,63.43
+E0308,Jig saw,7.13
+E0310,Heat gun,212.68
+E0312,Electric cast cutter,302.01
+E0313,Grinding machine,361.83
+E0314,Column drill with quick chuck,383.17
+E0316,Drilling machine,454.17
+E0317,Orthotic kit,520.22
+E0318,Arc welding machine,514.72
+E0319,Vacuum laminating machine,566.54
+E0320,Router machine,600.26
+E0321,Electric oven,706.22
+E0322,Shoe stretcher,669.19
+E0323,Prosthetic kit,759.25
+E0324,Electric leather sewing machine,1474.82
+E0329,"Examination couch, metal/wooden",285.28
+E0333,X-Ray viewer,213.75
+E0338,Stretcher with IV pole,161.31
+E0340,Lockable Cabinet,99.22
+E0341,Oxygen Set,124.09
+E0347,Fire extinguisher,144.42
+E0348,Dispensing stools,18.25
+E0349,"Fridge, Pharmacetical",511.58
+E0350,Motor & pestle,10.1
+E0351,Counting trays,49.12
+E0352,Tablet counter,113.77
+E0353,Drug cabinet,112.6
+E0354,Weighing scale(electronic),191.56
+E0355,"Balance, heavy duty",363.29
+E0356,"Balance, precision",607.91
+E0357,Distiller,640.91
+E0359,Crutches,17.4
+E0360,Walking frame,30.21
+E0362,Hand exerciser,139.25
+E0363,Exerciser mirror,5.7
+E0364,Calipers,10.94
+E0365,Exercise mat,64.52
+E0366,TENS Unit,75.25
+E0367,Timer,12.46
+E0368,Tripod,16.75
+E0369,Shoulder wheel,21.26
+E0370,Quandricep exerciser,22.46
+E0371,Pulley,36.36
+E0372,Rowing machine,36
+E0373,Lumber traction,47.95
+E0374,Cervical traction,52.3
+E0375,Dump bells(assorted),75.44
+E0376,Wheel chair,93.31
+E0377,Chest expander,111.84
+E0378,Wall bars,116.87
+E0379,Electro massager,175.32
+E0380,Cryotherapy,166.5
+E0381,Pack heater,329.77
+E0383,Infra red lamp,380.42
+E0384,Ultraviolet,522.97
+E0385,Wax bath,667.93
+E0386,Infra red radiation(IRR) craddle,1179.76
+E0387,Parallel bars,532.93
+E0388,Ultrasound unit,614.45
+E0389,"Stimulator, electric",1413.35
+E0390,Microwave Diathermy,3031.17
+E0391,Shortwave Diathermy,4630.01
+E0393,"Resuscitation bag, adult",25.47
+E0394,"Resuscitation bag, infant",24.84
+E0395,Oxygen regulator,121.71
+E0396,Instrument table (MAYO),249.23
+E0398,Surgeon foot step,17.2
+E0399,Surgeon's stool,34.5
+E0400,Instrument trolleys,152.29
+E0402,Myomectomy(see annex),196.67
+E0405,"Operating theatre table, major",3205.21
+E0406,Vital Signs Monitor,3751.32
+E0408,Electrosurgical unit,5154.73
+E0409,"Operating theatre lamp,ceiling mounted.",11643.69
+E0410,Anaesthetic machine,18334.92
+E0411,Sterilizing drum(see annex),21.99
+E0412,Instrument cabinet,381.08
+E0413,General set(see annex),352.31
+E0415,"Operating theatre lamp, mobile",768.09
+E0417,Caesaerian section set,2507.64
+E0419,Vacuum Plant,6400.4
+E0426,Operation table,2737.9
+E0428,Operating light,10777.6
+E0429,Anaesthetic machine with ventilator,17127.87
+E0440,Dressing pack,36.44
+E0442,"Hollow ware set, ward (Assorted)",56.99
+E0447,Electric heater(wall mounted),128.9
+E0449,Commode chair,266.04
+E0453,Electric kettle,38.34
+E0455,Weighing scale adult with height measuring,74
+E0457,"Trolley, oxygen gas cylinder",69.19
+E0458,Bed craddle,101.22
+E0466,X-ray safe light,1285.81
+E0468,Film marker,20.82
+E0470,X-ray viewer(single screen),227.09
+E0471,X-ray viewer(double screen),405.36
+E0473,Manual Film Processor,812.67
+E0474,Film Drier,778.28
+E0476,Film hopper,1516.85
+E0478,Dental X-ray film processor,1865.6
+E0479,Cassettee pass- box,1834.8
+E0480,Automatic Film Processor,26601.29
+E0483,General X-ray Unit,57388.63
+E0484,Darkroom accessories(sets),3556.03
+E0485,"X-ray Cassettes(see annex),",3961.59
+E0486,Dental X-ray,20957.86
+E0487,Ultra sound unit(general),22852.34
+E0489,OPG Unit,36132.71
+E0490,Mammography unit,41891.48
+E0491,Mobile X -ray unit with Image intensifier,47826.83
+E0493,Screening unit,89174.31
