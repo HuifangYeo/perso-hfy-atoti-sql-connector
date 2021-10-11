@@ -29,6 +29,7 @@ Use [01_main_csv.ipynb](01_main_csv.ipynb) to run analysis by consuming CSV data
 
 Use [02_main_mssql_realtime.ipynb](02_main_mssql_realtime.ipynb) to run analysis by loading data from MS SQL database into the atoti data cube. This notebooks includes demonstration of:
 
+- Security implementation with basic authentication
 - atoti connectivity to SQL database
 - real-time dashboarding, polling delta data from the database
 - what-if simulation (replace [mockML.py](data/mockML.py) with your own machine learning algorithm to forecast the sales in the next quarter.
